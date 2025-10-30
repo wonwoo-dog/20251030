@@ -1,0 +1,4 @@
+question,optionA,optionB,optionC,correct
+請問 p5.js 是什麼?,JavaScript 函式庫,CSS 框架,HTML 標籤,optionA
+哪個函數只會執行一次?,draw(),setup(),preload(),optionB
+用來讀取 CSV 的 p5.js 函數是?,loadJSON(),loadStrings(),loadTable(),optionC
